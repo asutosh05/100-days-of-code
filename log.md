@@ -10,3 +10,13 @@
 **Link to work:** [Json to Python Object](https://github.com/asutosh05/JsonToPythonObject)
 
 
+### Day 1 : July 16, 2018 
+##### (Feeling Motivated.......)
+
+**Today's Progress**: Discovering Some data Manupulation in python.
+
+**Thoughts:** : I want to refine on data conversion and data manupluation
+
+**Link to work:** [Json to Python Object](https://github.com/asutosh05/JsonToPythonObject)
+
+
