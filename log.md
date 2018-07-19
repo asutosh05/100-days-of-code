@@ -34,7 +34,16 @@
 
 **Today's Progress**: DB set its was fun to set the sqlitedb,the work with user creation part and fetch all users client used Postman
 
-**Thoughts:**: Work in progress wirking on user part
+**Thoughts:**: Work in progress working on user part
+
+**Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
+
+### Day 5 : July 19, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: User Part is done , learning about auth with token and more 
+
+**Thoughts:**: Work in auth path
 
 **Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
 
