@@ -47,12 +47,21 @@
 
 **Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
 
-### Day 6 : July 19, 2018 
+### Day 6 : July 20, 2018 
 ##### Excited for tomorrow
 
 **Today's Progress**: login route and token verification , decorator
 
 **Thoughts:**: Next to work with token vefication in all routes
+
+**Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
+
+### Day 7 : July 21, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: Token verification implemented, 
+
+**Thoughts:**: 
 
 **Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
 
