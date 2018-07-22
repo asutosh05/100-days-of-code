@@ -66,3 +66,13 @@
 **Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
 
 
+### Day 8 : July 22, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: TOSO REST API finished, now its time build the client web and may be mobile also
+
+**Thoughts:**: 
+
+**Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
+
+
