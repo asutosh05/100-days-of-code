@@ -75,4 +75,12 @@
 
 **Link to work:** [REST API Flask](https://github.com/asutosh05/rest-api-python-flask)
 
+### Day 9 : July 23, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**:  I read EOS white paper , and setup django for todo client
+
+**Thoughts:**: 
+
+**Link to work:** [REST API Flask](https://gist.github.com/asutosh05/f09ab0c41a96fa18248cc534d059daad)
 
