@@ -82,9 +82,18 @@
 
 **Thoughts:**: 
 
-**Link to work:** [Djnago](https://github.com/asutosh05/muvi-task)
+**Link to work:** [EOS](https://gist.github.com/asutosh05/f09ab0c41a96fa18248cc534d059daad)
 
 ### Day 10 : July 24, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: 
+
+**Thoughts:**: Set Up django, create db, create one model , one to go, migrate db, ,worked bit UI bootstrap4
+
+**Link to work:** [Django](https://github.com/asutosh05/muvi-task)
+
+### Day 11 : July 25, 2018 
 ##### Excited for tomorrow
 
 **Today's Progress**:  Setting Up URL , tempate, home page ,list view of django , debug lots of issues and solved it.
