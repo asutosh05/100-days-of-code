@@ -82,5 +82,14 @@
 
 **Thoughts:**: 
 
-**Link to work:** [REST API Flask](https://gist.github.com/asutosh05/f09ab0c41a96fa18248cc534d059daad)
+**Link to work:** [Djnago](https://github.com/asutosh05/muvi-task)
+
+### Day 10 : July 24, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**:  Setting Up URL , tempate, home page ,list view of django , debug lots of issues and solved it.
+
+**Thoughts:**: 
+
+**Link to work:** [Django](https://github.com/asutosh05/muvi-task)
 
