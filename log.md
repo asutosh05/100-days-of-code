@@ -96,7 +96,8 @@
 ### Day 11 : July 25, 2018 
 ##### Excited for tomorrow
 
-**Today's Progress**:  Setting Up URL , tempate, home page ,list view of django , debug lots of issues and solved it.
+**Today's Progress**:  Change in plan doing a task project for an inteview.
+Setting Up URL , tempate, home page ,list view of django , debug lots of issues and solved it.
 
 **Thoughts:**: 
 
