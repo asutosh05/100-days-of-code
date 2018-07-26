@@ -103,3 +103,11 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 
 **Link to work:** [Django](https://github.com/asutosh05/muvi-task)
 
+
+### Day 12 : July 26, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**:  Worked with generic views in django ,ListView,DetailsView,URL,SLUG and lost of bug
+**Thoughts:**: 
+
+**Link to work:** [Django](https://github.com/asutosh05/muvi-task)
