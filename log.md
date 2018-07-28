@@ -123,7 +123,7 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 ## Day 14 : July 28, 2018 
 ##### Excited for tomorrow
 
-**Today's Progress**: Workd on account parts , usre login, singnup ,UpdateView,deleteview and at last finsh the task
+**Today's Progress**: Worked on account parts , usre login, singnup ,UpdateView,deleteview and at last finsh the task
 **Thoughts:**: 
 
 **Link to work:** [Django](https://github.com/asutosh05/muvi-task)
