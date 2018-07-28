@@ -111,3 +111,19 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 **Thoughts:**: 
 
 **Link to work:** [Django](https://github.com/asutosh05/muvi-task)
+
+## Day 13 : July 27, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: Worked on django form , its nice so customization 
+**Thoughts:**: 
+
+**Link to work:** [Django](https://github.com/asutosh05/muvi-task)
+
+## Day 14 : July 28, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: Workd on account parts , usre login, singnup ,UpdateView,deleteview and at last finsh the task
+**Thoughts:**: 
+
+**Link to work:** [Django](https://github.com/asutosh05/muvi-task)
