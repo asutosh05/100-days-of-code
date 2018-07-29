@@ -134,3 +134,4 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 **Today's Progress**: Today SQL yes, I Know SQL, I use SQL in my full time job, but today lets click the refresh button.
                     Specialy Join,Inner Query ,Aggregate functions
 
+**Sources** Youtube Video
