@@ -127,3 +127,10 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 **Thoughts:**: 
 
 **Link to work:** [Django](https://github.com/asutosh05/muvi-task)
+
+## Day 14 : July 29, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: Today SQL yes, I Know SQL, I use SQL in my full time job, but today lets click the refresh button.
+                    Specialy Join,Inner Query ,Aggregate functions
+
