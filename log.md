@@ -142,3 +142,10 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 **Today's Progress**: I feel the testing a big part of coding so I dedecated the day to learn about test the code, automation testing 
 
 **Sources** Youtube Video, Django Doc
+
+## Day 17 : July 31, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: tespy setup for django, write code to test URL , its was  challenging I never wrote test code, got lost of error.
+
+**Sources** Youtube Video https://www.youtube.com/watch?v=TzCWadHwdSs
