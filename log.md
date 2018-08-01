@@ -149,3 +149,10 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 **Today's Progress**: tespy setup for django, write code to test URL , its was  challenging I never wrote test code, got lost of error.
 
 **Sources** Youtube Video https://www.youtube.com/watch?v=TzCWadHwdSs
+
+## Day 18 : Aug 1, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: learn write test code for models , defnitaion base view , struggling for class base view.
+
+**Sources** Youtube Video https://www.youtube.com/watch?v=TzCWadHwdSs
