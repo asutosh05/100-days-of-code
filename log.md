@@ -156,3 +156,10 @@ Setting Up URL , tempate, home page ,list view of django , debug lots of issues 
 **Today's Progress**: learn write test code for models , defnitaion base view , struggling for class base view.
 
 **Sources** Youtube Video https://www.youtube.com/watch?v=TzCWadHwdSs
+
+## Day 19,20,21,22 : Aug 02-05, 2018 
+##### Excited for tomorrow
+
+**Today's Progress**: Try to migrate to my sql but got some error ,then make the app again
+
+**Sources** https://github.com/asutosh05/muvi-app-django-mysql/tree/master
